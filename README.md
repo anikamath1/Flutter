@@ -1,6 +1,6 @@
 # flutterapp
 
-A new Flutter application.
+Basic ID Card application
 
 ## Getting Started
 
